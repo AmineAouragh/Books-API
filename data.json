@@ -9484,4 +9484,32 @@
       "shopping-link": "https://www.amazon.in/Shining-Stephen-King/dp/0307743659/ref=tmm_mmp_swatch_0?_encoding=UTF8&qid=&sr=",
       "download-link": "https://book4you.org/book/3856268/1b354b"
     }
+
+      {
+          "id": 190,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publication_year": 1951,
+      "isbn": "0316769177",
+      "genre": ["Fiction", "Coming of Age"],
+      "rating": 4.1
+    },
+    {
+        "id": 191,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publication_year": 1960,
+      "isbn": "0061120081",
+      "genre": ["Fiction", "Southern Gothic"],
+      "rating": 4.4
+    },
+    {
+        "id": 192,
+      "title": "1984",
+      "author": "George Orwell",
+      "publication_year": 1949,
+      "isbn": "0451524934",
+      "genre": ["Fiction", "Dystopian"],
+      "rating": 4.2
+    },
     ]
