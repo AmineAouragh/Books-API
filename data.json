@@ -9483,9 +9483,9 @@
       "publisher": "Doubleday",
       "shopping-link": "https://www.amazon.in/Shining-Stephen-King/dp/0307743659/ref=tmm_mmp_swatch_0?_encoding=UTF8&qid=&sr=",
       "download-link": "https://book4you.org/book/3856268/1b354b"
-    }
+    },
 
-      {
+   {
           "id": 190,
       "title": "The Catcher in the Rye",
       "author": "J.D. Salinger",
@@ -9511,5 +9511,5 @@
       "isbn": "0451524934",
       "genre": ["Fiction", "Dystopian"],
       "rating": 4.2
-    },
-    ]
+    }
+]
